@@ -1,31 +1,27 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Sri Sai Gopichand Polavarapu - Data Analyst Portfolio
 
+Welcome to my Data Analyst Portfolio! This repository showcases my projects and skills in data analysis, machine learning, and data visualization. Below, you'll find an overview of the projects, my experience, and how to get in touch with me.
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+## About Me
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+I am a dynamic and results-oriented Data Analyst with over a year of hands-on experience in transforming complex datasets into actionable insights. Proficient in Python, SQL, R, and advanced data modeling, I have developed expertise in machine learning, data visualization, and ETL processes. My career includes significant achievements in optimizing SQL queries, enhancing data accuracy, and implementing efficient data infrastructure.
 
-(* = not included)
+## Skills
 
-AJ
-aj@lkn.io | @ajlkn
+- **Programming Languages:** Python, SQL, R, C
+- **Data Analysis & Visualization Tools:** Tableau, Power BI, Cognos, Pandas, NumPy, Matplotlib, Seaborn, Advanced Excel
+- **Machine Learning & AI:** TensorFlow, Keras, Scikit-learn, Predictive Analytics, Bayesian Networks, Data Mining
+- **Database & ETL Technologies:** MySQL, Oracle, SQL Server, Informatica PowerCenter, AWS, Data Warehousing
+- **Other Tools:** ServiceNow, VS Code, Statistical Analysis
 
+## Contact
 
-Credits:
+I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out to me:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- **Email:** [srisaigo@buffalo.edu](mailto:srisaigopichand@gmail.com)
+- **LinkedIn:** [sri-sai-gopichand-p](https://www.linkedin.com/in/sri-sai-gopichand-p/)
+- **GitHub:** [GitHub Profile](https://github.com/SriSaiGopichand)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+---
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thank you for visiting my portfolio! Let's connect and create something amazing together.
