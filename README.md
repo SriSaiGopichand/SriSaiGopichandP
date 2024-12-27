@@ -22,10 +22,6 @@ I'm always open to discussing new projects, ideas, or opportunities. Feel free t
 - **LinkedIn:** [Sri Sai Gopichand Polavarapu](https://www.linkedin.com/in/sri-sai-gopichand-p/)
 - **GitHub:** [GitHub Profile](https://github.com/SriSaiGopichand)
 
-## License
-
-This portfolio is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 Thank you for visiting my portfolio! Let's connect and create something amazing together.
