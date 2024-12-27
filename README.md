@@ -18,9 +18,13 @@ I am a dynamic and results-oriented Data Analyst with over a year of hands-on ex
 
 I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out to me:
 
-- **Email:** [srisaigo@buffalo.edu](mailto:srisaigopichand@gmail.com)
-- **LinkedIn:** [sri-sai-gopichand-p](https://www.linkedin.com/in/sri-sai-gopichand-p/)
+- **Email:** [srisaigo@buffalo.edu](mailto:srisaigo@buffalo.edu)
+- **LinkedIn:** [Sri Sai Gopichand Polavarapu](https://www.linkedin.com/in/sri-sai-gopichand-p/)
 - **GitHub:** [GitHub Profile](https://github.com/SriSaiGopichand)
+
+## License
+
+This portfolio is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
